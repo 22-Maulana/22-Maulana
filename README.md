@@ -3,22 +3,22 @@
 
 - 👋 Hi There, I’m Maulana Ardhiansyah Prasetyo (Mobile Dev & Robotics Enthusiast)
 
-  Software Engineer who is passionate about Mobile Dev and Robotics. Focused on developing innovative Mobile applications to provide great user experience and improve efficiency and usefulness daily life applications
+  Software Engineer who is passionate about AI/ML and Robotics. Focused on developing innovative Mobile applications to provide great user experience and improve efficiency and usefulness daily life applications
 
 - 👀 I’m interested in:
-  - Mobile application development using Flutter and Kotlin technologies.
+  - Computer Vision Using openCV Python
   - Robotics, particularly in vision systems and intelligent automation.
   - Machine learning applications in real-world problems.
   - Contributing to open-source projects that enhance community development.
 
 - 🌱 I’m currently learning:
-  - Advanced concepts in Flutter Clean Arsitecture and Dart for building scalable applications.
+  - Advanced computer vision integrated Deep Learning Using framework Tensor Flow and YOLO
   - Machine learning algorithms and frameworks like TensorFlow for smart applications.
   - Creating programs for robotics such as computer vision, robot communication using Robot Operating System (ROS), and localization
   - Best practices in software development, including version control with Git and continuous integration.
 
 - 💞️ I’m looking to collaborate on:
-  - Innovative projects in mobile app development and robotics.
+  - Innovative projects in Deep Computer Vision development and robotics.
   - Open-source initiatives that aim to create a positive impact on society.
   - Research and development projects that integrate AI with mobile and robotics technologies.
 
