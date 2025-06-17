@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=0D9BDF&center=true&vCenter=true&width=500&lines=Welcome+To+My+Github+.+.+.+.)](https://git.io/typing-svg)
 
 
-- 👋 Hi There, I’m Maulana Ardhiansyah Prasetyo (Mobile Dev & Robotics Enthusiast)
+- 👋 Hi There, I’m Maulana Ardhiansyah Prasetyo (AI/ML & Robotics Enthusiast)
 
   Software Engineer who is passionate about AI/ML and Robotics. Focused on developing innovative Mobile applications to provide great user experience and improve efficiency and usefulness daily life applications
 
